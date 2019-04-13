@@ -1,5 +1,7 @@
 <header align="center">
-    <img src="podcast.png" alt="Logo" width="250" />
+    <div align="center">
+        <img src="podcast.png" alt="Logo" width="250" />
+    </div>
     <h1>Awesome JavaScript Podcasts</h1>
     <p>Webdev, Programming and Life</p>
 </header>

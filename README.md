@@ -1,9 +1,11 @@
-<h1 align="center">
-    Awesome JavaScript Podcasts
-    <img src="podcast.png" alt="Icon" width="300 />
-</h1>
+<header align="center">
+    <img src="podcast.png" alt="Logo" width="250" />
+    <h1>Awesome JavaScript Podcasts</h1>
+    <p>Webdev, Programming and Life</p>
+</header>
 
-# Awesome JavaScript Podcasts
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+[![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
 
 #### Attributions
 

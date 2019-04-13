@@ -2,8 +2,8 @@
     <div align="center">
         <img src="podcast.png" alt="Logo" width="250" />
     </div>
-    <h1>Awesome JavaScript Podcasts</h1>
-    <p>Webdev, Programming and Life</p>
+    <h1 align="center">Awesome JavaScript Podcasts</h1>
+    <p align="center">Webdev, Programming and Life</p>
 </header>
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)

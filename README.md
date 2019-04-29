@@ -19,6 +19,7 @@ _(in alphabetical order)_
 | [Soft Skills Engineering](https://softskills.audio/) | Topics about life as a software engineer. "It takes more than great code to be a great engineer."                                   | [@jergason](https://twitter.com/jergason) [@djsmith42](https://twitter.com/djsmith42)   |
 | [Syntax.fm](https://syntax.fm/)                      | Wes and Scott talk about JS, new things in webdev and life. Includes a lot of tasty treats.                                         | [@wesbos](http://twitter.com/wesbos/) [@stolinski](https://twitter.com/stolinski)       |
 | [The Changelog](https://changelog.com/podcast)       | Conversations with the hackers, leaders, and innovators of software development                                                     | [@adamstac](https://twitter.com/adamstac) [@jerodsanto](https://twitter.com/jerodsanto) |
+| [This Developer's Life](http://thisdeveloperslife.com) | A podcast about developers and their lives. | [@robconery](https://twitter.com/robconery) |
 | [Hope in Source](https://hopeinsource.com/) | A podcast about faith and open source | [@nayafia](https://twitter.com/nayafia) [@left_pad](https://twitter.com/left_pad) |
 
 ## Episodes
@@ -44,6 +45,7 @@ _(in reverse chronological order)_
 | React today and tomorrow                                    | [React Podcast](https://overcast.fm/+N_6IW1f0w)                                                                              | Oct 31, 2018 | The upcoming goodness in React and what the core team is up to                                                     | [@sebmarkbage](https://twitter.com/sebmarkbage) [@sophiebits](https://twitter.com/sophiebits) [@dan_abramov](https://twitter.com/dan_abramov) [@acdlite](https://twitter.com/acdlite) [@brian_d_vaughn](https://twitter.com/brian_d_vaughn) [@mjackson](https://twitter.com/mjackson) |
 | Faith and Open source | [Hope in Source](https://hopeinsource.com/faith/) | Oct 16, 2018 | Discussions about faith and open source | [@nayafia](https://twitter.com/nayafia) [@left_pad](https://twitter.com/left_pad) |
 | Ditch Authority                                             | [React Podcast](https://overcast.fm/+N_6LAiP7Q)                                                                              | Oct 2, 2018  | Sunil Pai talks about his career and a lot of CSS                                                                  | [@threepointone](https://twitter.com/threepointone) [@chantastic](https://twitter.com/chantastic)                                                                                                                                                                                     |
+| Getting Fired | [This Developer's Life](http://thisdeveloperslife.com/post/1-0-1-getting-fired) | Aug 18, 2010 | Stories on getting fired | [@robconery](https://twitter.com/robconery) [Sara J Chipps](http://girldeveloper.com/) [Ayende Rahien](http://ayende.com/) |
 
 ## Hi
 
